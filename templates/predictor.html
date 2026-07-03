@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Placement Predictor | PlacementGuide</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    background:#f5f7fb;
+    font-family:'Poppins',sans-serif;
+}
+
+.card{
+    border:none;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+}
+
+h2{
+    color:#1e293b;
+    font-weight:700;
+}
+
+.btn-primary{
+    border-radius:12px;
+    padding:12px;
+    font-size:18px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container py-5">
+
+<div class="row justify-content-center">
+
+<div class="col-lg-8">
+
+<div class="card">
+
+<div class="card-body p-5">
+
+<h2 class="text-center mb-4">
+
+Placement Predictor
+
+</h2>
+
+<p class="text-center text-muted mb-4">
+
+Fill in your academic details to estimate your placement probability.
+
+</p>
+
+<form method="POST" action="{{ url_for('predictor') }}">
+
+<div class="row">
+
+<!-- Branch -->
+
+<div class="col-md-6 mb-3">
+
+<label class="form-label">Branch</label>
+
+<select class="form-select" name="branch" required>
+
+<option value="">Select Branch</option>
+
+<option value="CSE">Computer Science (CSE)</option>
+
+<option value="COE">Computer Engineering (COE)</option>
+
+<option value="ENC">Electronics & Computer (ENC)</option>
+
+<option value="ECE">Electronics & Communication (ECE)</option>
+
+<option value="EIC">Electronics & Instrumentation (EIC)</option>
+
+<option value="Electrical">Electrical Engineering</option>
+
+<option value="Mechanical">Mechanical Engineering</option>
+
+<option value="Civil">Civil Engineering</option>
+
+<option value="Chemical">Chemical Engineering</option>
+
+<option value="Biotechnology">Biotechnology</option>
+
+</select>
+
+</div>
+
+<!-- CGPA -->
+
+<div class="col-md-6 mb-3">
+
+<label>CGPA</label>
+
+<input
+type="number"
+step="0.01"
+class="form-control"
+name="cgpa"
+required>
+
+</div>
+
+<!-- ATS -->
+
+<div class="col-md-6 mb-3">
+
+<label>ATS Score</label>
+
+<input
+type="number"
+class="form-control"
+name="ats"
+value="{{ ats_score }}"
+readonly>
+
+</div>
+
+<!-- Skills -->
+
+<div class="col-md-6 mb-3">
+
+<label>Skills Count</label>
+
+<input
+type="number"
+class="form-control"
+name="skills"
+required>
+
+</div>
+
+<!-- Projects -->
+
+<div class="col-md-6 mb-3">
+
+<label>Projects</label>
+
+<input
+type="number"
+class="form-control"
+name="projects"
+required>
+
+</div>
+
+<!-- Internships -->
+
+<div class="col-md-6 mb-3">
+
+<label>Internships</label>
+
+<input
+type="number"
+class="form-control"
+name="internships"
+required>
+
+</div>
+
+<!-- Certifications -->
+
+<div class="col-md-6 mb-3">
+
+<label>Certifications</label>
+
+<input
+type="number"
+class="form-control"
+name="certifications"
+required>
+
+</div>
+
+<!-- Coding -->
+
+<div class="col-md-6 mb-3">
+
+<label>Coding Score</label>
+
+<input
+type="number"
+class="form-control"
+name="coding"
+required>
+
+</div>
+
+<!-- Communication -->
+
+<div class="col-md-6 mb-3">
+
+<label>Communication (1-10)</label>
+
+<input
+type="number"
+class="form-control"
+name="communication"
+required>
+
+</div>
+
+<!-- DSA -->
+
+<div class="col-md-6 mb-3">
+
+<label>DSA Problems Solved</label>
+
+<input
+type="number"
+class="form-control"
+name="dsa"
+required>
+
+</div>
+
+<!-- Backlogs -->
+
+<div class="col-md-6 mb-3">
+
+<label>Backlogs</label>
+
+<input
+type="number"
+class="form-control"
+name="backlogs"
+required>
+
+</div>
+
+</div>
+
+<div class="d-grid mt-4">
+
+<button type="submit" class="btn btn-primary btn-lg">
+
+Predict Placement Chance
+
+</button>
+
+</div>
+
+</form>
+
+<div class="text-center mt-4">
+
+<a href="{{ url_for('dashboard') }}" class="btn btn-outline-secondary">
+
+Back to Dashboard
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

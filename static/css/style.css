@@ -1,0 +1,280 @@
+/* ==========================
+   GOOGLE FONT
+========================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background:#f8fafc;
+    color:#1e293b;
+    overflow-x:hidden;
+}
+
+/* ==========================
+   CONTAINER
+========================== */
+
+.container{
+    max-width:1250px;
+}
+
+/* ==========================
+   NAVBAR
+========================== */
+
+.navbar{
+
+    background:#ffffff;
+
+    height:90px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+.navbar-brand{
+
+    text-decoration:none;
+
+}
+
+.navbar-brand i{
+
+    color:#2563EB;
+
+}
+
+.navbar-brand h4{
+
+    font-size:30px;
+
+    font-weight:700;
+
+    color:#0F172A;
+
+}
+
+.navbar-brand small{
+
+    color:#64748B;
+
+    font-size:13px;
+
+}
+
+.nav-link{
+
+    color:#475569 !important;
+
+    font-weight:500;
+
+    margin-left:18px;
+
+    transition:.3s;
+
+}
+
+.nav-link:hover{
+
+    color:#2563EB !important;
+
+}
+
+/* ==========================
+   BUTTONS
+========================== */
+
+.btn-outline-primary{
+
+    border-radius:50px;
+
+    padding:12px 28px;
+
+}
+
+.btn-primary{
+
+    border-radius:50px;
+
+    padding:12px 28px;
+
+}
+
+/* ==========================
+   HERO
+========================== */
+
+.hero{
+
+    padding-top:170px;
+
+    padding-bottom:100px;
+
+}
+
+.hero .badge{
+
+    font-size:15px;
+
+    padding:12px 24px !important;
+
+    border-radius:30px;
+
+}
+
+.hero h1{
+
+    font-size:70px;
+
+    font-weight:700;
+
+    color:#0F172A;
+
+    line-height:1.15;
+
+    margin-top:25px;
+
+    margin-bottom:25px;
+
+}
+
+.hero p{
+
+    font-size:22px;
+
+    color:#64748B;
+
+    line-height:1.8;
+
+}
+
+.hero .btn{
+
+    margin-top:20px;
+
+    margin-right:12px;
+
+}
+
+.hero img{
+
+    width:100%;
+
+    max-width:550px;
+
+    animation:float 5s ease infinite;
+
+}
+
+/* ==========================
+   FLOAT ANIMATION
+========================== */
+
+@keyframes float{
+
+0%{
+
+transform:translateY(0);
+
+}
+
+50%{
+
+transform:translateY(-12px);
+
+}
+
+100%{
+
+transform:translateY(0);
+
+}
+
+}
+
+/* ==========================
+   COMING NEXT
+========================== */
+
+section.py-5{
+
+    padding-top:80px !important;
+
+    padding-bottom:80px !important;
+
+}
+
+/* ==========================
+   RESPONSIVE
+========================== */
+
+@media(max-width:992px){
+
+.navbar{
+
+height:auto;
+
+padding:15px 0;
+
+}
+
+.hero{
+
+padding-top:140px;
+
+text-align:center;
+
+}
+
+.hero h1{
+
+font-size:48px;
+
+}
+
+.hero p{
+
+font-size:18px;
+
+}
+
+.hero img{
+
+margin-top:60px;
+
+}
+
+.navbar-brand{
+
+margin-bottom:15px;
+
+}
+
+.nav-link{
+
+margin-left:0;
+
+padding:12px 0;
+
+}
+
+.btn{
+
+margin-top:10px;
+
+}
+
+}

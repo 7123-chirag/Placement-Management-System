@@ -1,0 +1,1001 @@
+id,company,branch,role,interview_type,difficulty,topic,question,answer
+1,Oracle,CSE,Frontend Engineer,Coding,Hard,DSA,Explain binary search.,Searches a sorted array in O(log n).
+2,NVIDIA,ECE,FPGA Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+3,Intel,ECE,Electronics Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+4,HCL,CSE,Data Engineer,Technical,Hard,Node.js,What is Express?,A Node.js web framework.
+5,Texas Instruments,ECE,Electronics Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+6,Samsung,ECE,FPGA Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+7,Cognizant,CSE,Backend Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+8,NVIDIA,ECE,Electronics Engineer,Technical,Easy,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+9,Adobe,CSE,AI Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+10,Qualcomm,ECE,VLSI Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+11,Bosch,ECE,Embedded Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+12,TCS,CSE,AI Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+13,Microsoft,CSE,Software Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+14,Texas Instruments,ECE,FPGA Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+15,Texas Instruments,ECE,FPGA Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+16,Qualcomm,ECE,Embedded Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+17,Infosys,CSE,ML Engineer,Technical,Medium,SQL,What is JOIN?,Combines rows from multiple tables.
+18,Qualcomm,ECE,Embedded Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+19,Texas Instruments,ECE,Embedded Engineer,Technical,Easy,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+20,NVIDIA,CSE,Software Engineer,Coding,Medium,DSA,Explain binary search.,Searches a sorted array in O(log n).
+21,Capgemini,CSE,Software Engineer,Technical,Easy,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+22,PhonePe,CSE,AI Engineer,Technical,Easy,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+23,Samsung,ECE,FPGA Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+24,Cisco,ECE,Electronics Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+25,Infineon,ECE,Embedded Engineer,Technical,Easy,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+26,Flipkart,CSE,Frontend Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+27,Analog Devices,ECE,Hardware Engineer,Technical,Easy,VLSI,Setup vs hold time?,Timing constraints.
+28,NVIDIA,ECE,Electronics Engineer,Technical,Medium,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+29,TCS,CSE,Data Engineer,Technical,Hard,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+30,STMicroelectronics,ECE,FPGA Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+31,Flipkart,CSE,Software Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+32,NXP,ECE,Embedded Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+33,Intel,CSE,Frontend Engineer,Coding,Easy,DSA,Explain binary search.,Searches a sorted array in O(log n).
+34,Intel,CSE,Frontend Engineer,Technical,Medium,DBMS,What is normalization?,Reduces redundancy in databases.
+35,STMicroelectronics,ECE,VLSI Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+36,Analog Devices,ECE,Electronics Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+37,Google,CSE,Data Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+38,NVIDIA,CSE,ML Engineer,Technical,Easy,Machine Learning,What is overfitting?,Model memorizes training data.
+39,Texas Instruments,ECE,VLSI Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+40,Flipkart,CSE,ML Engineer,Technical,Easy,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+41,Bosch,ECE,Hardware Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+42,Samsung,ECE,Embedded Engineer,Technical,Medium,Signals,Energy vs power signal?,Classification by energy/power.
+43,Samsung,ECE,VLSI Engineer,Technical,Easy,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+44,Qualcomm,ECE,Hardware Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+45,Accenture,CSE,ML Engineer,Technical,Easy,React,What is JSX?,JavaScript XML syntax.
+46,Intel,CSE,Frontend Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+47,Texas Instruments,ECE,VLSI Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+48,IBM,CSE,ML Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+49,Microsoft,CSE,ML Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+50,Google,CSE,Data Engineer,Technical,Easy,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+51,Adobe,CSE,Frontend Engineer,Technical,Hard,Deep Learning,What is CNN?,Convolutional Neural Network.
+52,Amazon,CSE,Frontend Engineer,Technical,Easy,JavaScript,What is closure?,Function with preserved lexical scope.
+53,Oracle,CSE,Frontend Engineer,Technical,Medium,SQL,What is JOIN?,Combines rows from multiple tables.
+54,Qualcomm,ECE,FPGA Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+55,Accenture,CSE,AI Engineer,Technical,Hard,Deep Learning,What is CNN?,Convolutional Neural Network.
+56,NXP,ECE,VLSI Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+57,Google,CSE,ML Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+58,Capgemini,CSE,Software Engineer,Technical,Medium,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+59,Texas Instruments,ECE,VLSI Engineer,Technical,Hard,Embedded C,What is UART?,Serial communication protocol.
+60,Cisco,ECE,Embedded Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+61,Cisco,CSE,ML Engineer,Technical,Easy,DBMS,What is a primary key?,A unique identifier for a row.
+62,NVIDIA,ECE,FPGA Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+63,NVIDIA,CSE,Backend Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+64,NVIDIA,ECE,VLSI Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+65,Analog Devices,ECE,Electronics Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+66,Google,CSE,ML Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+67,Samsung,ECE,Electronics Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+68,Intel,CSE,Software Engineer,Technical,Hard,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+69,Bosch,ECE,VLSI Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+70,Microsoft,CSE,Frontend Engineer,Technical,Easy,JavaScript,What is closure?,Function with preserved lexical scope.
+71,Intel,CSE,AI Engineer,Technical,Hard,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+72,Paytm,CSE,Backend Engineer,Coding,Easy,DSA,What is a stack?,A LIFO data structure.
+73,Cognizant,CSE,AI Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+74,Intel,CSE,AI Engineer,Technical,Medium,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+75,Infineon,ECE,VLSI Engineer,Technical,Easy,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+76,NVIDIA,ECE,Hardware Engineer,Technical,Medium,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+77,NVIDIA,ECE,Hardware Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+78,Cisco,ECE,Embedded Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+79,NVIDIA,CSE,Software Engineer,Technical,Medium,Java,What is JVM?,Java Virtual Machine.
+80,Cisco,CSE,ML Engineer,Technical,Medium,Python,What are decorators?,Functions that modify other functions.
+81,Capgemini,CSE,Data Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+82,Accenture,CSE,Frontend Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+83,Infosys,CSE,Frontend Engineer,Technical,Medium,Node.js,What is npm?,Node package manager.
+84,NVIDIA,ECE,FPGA Engineer,Technical,Hard,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+85,Paytm,CSE,Backend Engineer,Technical,Easy,Deep Learning,What is gradient descent?,Optimization algorithm.
+86,Cisco,CSE,ML Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+87,Intel,CSE,Software Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+88,Intel,ECE,VLSI Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+89,Texas Instruments,ECE,Embedded Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+90,STMicroelectronics,ECE,Hardware Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+91,HCL,CSE,AI Engineer,Technical,Hard,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+92,NVIDIA,ECE,FPGA Engineer,Technical,Hard,Signals,Energy vs power signal?,Classification by energy/power.
+93,NVIDIA,CSE,Frontend Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+94,Google,CSE,AI Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+95,Qualcomm,ECE,FPGA Engineer,Technical,Hard,Verilog,What is an always block?,Defines procedural logic.
+96,TCS,CSE,Backend Engineer,Technical,Medium,Python,What are decorators?,Functions that modify other functions.
+97,NVIDIA,ECE,Embedded Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+98,Microsoft,CSE,Data Engineer,Technical,Medium,JavaScript,What is closure?,Function with preserved lexical scope.
+99,Texas Instruments,ECE,Electronics Engineer,Technical,Easy,Analog Electronics,What is feedback?,Feeds output back to input.
+100,Infineon,ECE,FPGA Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+101,Oracle,CSE,Frontend Engineer,Technical,Easy,DBMS,What is normalization?,Reduces redundancy in databases.
+102,Siemens,ECE,Embedded Engineer,Technical,Hard,VHDL,What is architecture?,Defines implementation.
+103,Bosch,ECE,Embedded Engineer,Technical,Easy,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+104,NXP,ECE,Hardware Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+105,Flipkart,CSE,Frontend Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+106,Qualcomm,ECE,VLSI Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+107,Texas Instruments,ECE,VLSI Engineer,Technical,Easy,VHDL,What is an entity?,Defines module interface.
+108,Samsung,ECE,VLSI Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+109,NXP,ECE,VLSI Engineer,Technical,Easy,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+110,Siemens,ECE,VLSI Engineer,Technical,Medium,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+111,Bosch,ECE,VLSI Engineer,Technical,Medium,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+112,Texas Instruments,ECE,FPGA Engineer,Technical,Medium,Signals,Energy vs power signal?,Classification by energy/power.
+113,PhonePe,CSE,Data Engineer,Technical,Medium,Python,What are decorators?,Functions that modify other functions.
+114,Siemens,ECE,Hardware Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+115,Infosys,CSE,Frontend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+116,Texas Instruments,ECE,Hardware Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+117,Apple,CSE,Software Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+118,Texas Instruments,ECE,Electronics Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+119,NVIDIA,ECE,Electronics Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+120,Analog Devices,ECE,FPGA Engineer,Technical,Hard,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+121,NVIDIA,CSE,Software Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+122,NXP,ECE,VLSI Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+123,Bosch,ECE,Embedded Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+124,Analog Devices,ECE,VLSI Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+125,Microsoft,CSE,Backend Engineer,Technical,Medium,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+126,Oracle,CSE,Frontend Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+127,HCL,CSE,Data Engineer,Technical,Hard,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+128,STMicroelectronics,ECE,Electronics Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+129,HCL,CSE,Frontend Engineer,Technical,Easy,Python,What are decorators?,Functions that modify other functions.
+130,Infosys,CSE,Frontend Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+131,Siemens,ECE,Hardware Engineer,Technical,Easy,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+132,Siemens,ECE,Embedded Engineer,Technical,Easy,VLSI,Setup vs hold time?,Timing constraints.
+133,Infosys,CSE,AI Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+134,NVIDIA,ECE,FPGA Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+135,Qualcomm,ECE,Embedded Engineer,Technical,Medium,Signals,Energy vs power signal?,Classification by energy/power.
+136,Texas Instruments,ECE,Embedded Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+137,Accenture,CSE,Software Engineer,Technical,Easy,React,What are React hooks?,Functions for state and lifecycle in functional components.
+138,Texas Instruments,ECE,FPGA Engineer,Technical,Hard,Signals,Energy vs power signal?,Classification by energy/power.
+139,NVIDIA,ECE,VLSI Engineer,Technical,Hard,Embedded C,What is UART?,Serial communication protocol.
+140,Qualcomm,ECE,Embedded Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+141,Cisco,CSE,Data Engineer,Technical,Hard,SQL,What is JOIN?,Combines rows from multiple tables.
+142,Infosys,CSE,AI Engineer,Technical,Easy,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+143,Bosch,ECE,VLSI Engineer,Technical,Hard,Communication Systems,What is modulation?,Encode information onto carrier.
+144,Infosys,CSE,AI Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+145,Adobe,CSE,ML Engineer,Technical,Medium,SQL,What is JOIN?,Combines rows from multiple tables.
+146,Accenture,CSE,AI Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+147,Cognizant,CSE,Software Engineer,Technical,Hard,Machine Learning,What is overfitting?,Model memorizes training data.
+148,Apple,CSE,Backend Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+149,Microsoft,CSE,Frontend Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+150,Infineon,ECE,Electronics Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+151,TCS,CSE,Frontend Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+152,HCL,CSE,Data Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+153,Intel,ECE,Electronics Engineer,Technical,Medium,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+154,Qualcomm,ECE,Embedded Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+155,Paytm,CSE,Data Engineer,Technical,Easy,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+156,Google,CSE,Data Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+157,Analog Devices,ECE,FPGA Engineer,Technical,Easy,VHDL,What is an entity?,Defines module interface.
+158,Microsoft,CSE,Software Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+159,Siemens,ECE,Embedded Engineer,Technical,Easy,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+160,Cisco,ECE,Electronics Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+161,Paytm,CSE,Frontend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+162,Cisco,ECE,Electronics Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+163,Infosys,CSE,Software Engineer,Technical,Medium,Deep Learning,What is CNN?,Convolutional Neural Network.
+164,Intel,ECE,FPGA Engineer,Technical,Easy,Embedded C,volatile keyword?,Prevents compiler optimization.
+165,Bosch,ECE,Hardware Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+166,Intel,ECE,FPGA Engineer,Technical,Hard,Communication Systems,What is modulation?,Encode information onto carrier.
+167,Siemens,ECE,FPGA Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+168,NVIDIA,ECE,Electronics Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+169,Cognizant,CSE,Backend Engineer,Technical,Medium,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+170,NVIDIA,CSE,Software Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+171,Samsung,ECE,FPGA Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+172,Wipro,CSE,Frontend Engineer,Coding,Easy,DSA,What is a stack?,A LIFO data structure.
+173,NXP,ECE,Electronics Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+174,HCL,CSE,Software Engineer,Technical,Easy,Java,What is JVM?,Java Virtual Machine.
+175,Bosch,ECE,Electronics Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+176,Analog Devices,ECE,FPGA Engineer,Technical,Hard,Embedded C,What is UART?,Serial communication protocol.
+177,Intel,ECE,VLSI Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+178,Infosys,CSE,Backend Engineer,Technical,Hard,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+179,HCL,CSE,ML Engineer,Technical,Medium,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+180,IBM,CSE,Software Engineer,Coding,Easy,DSA,What is a stack?,A LIFO data structure.
+181,NVIDIA,ECE,FPGA Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+182,NXP,ECE,Hardware Engineer,Technical,Hard,VLSI,What is CMOS?,Complementary MOS technology.
+183,Siemens,ECE,Electronics Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+184,Analog Devices,ECE,Hardware Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+185,Apple,CSE,Data Engineer,Coding,Hard,DSA,Explain binary search.,Searches a sorted array in O(log n).
+186,Amazon,CSE,AI Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+187,Bosch,ECE,FPGA Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+188,NVIDIA,CSE,Data Engineer,Coding,Hard,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+189,NXP,ECE,FPGA Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+190,Siemens,ECE,Electronics Engineer,Technical,Medium,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+191,NVIDIA,ECE,Hardware Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+192,HCL,CSE,Software Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+193,Analog Devices,ECE,VLSI Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+194,Intel,ECE,Hardware Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+195,Capgemini,CSE,Frontend Engineer,Technical,Medium,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+196,Wipro,CSE,AI Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+197,Intel,CSE,ML Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+198,Intel,CSE,AI Engineer,Technical,Medium,SQL,What is JOIN?,Combines rows from multiple tables.
+199,Qualcomm,ECE,FPGA Engineer,Technical,Medium,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+200,Accenture,CSE,Data Engineer,Technical,Hard,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+201,Intel,ECE,Electronics Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+202,Samsung,ECE,Embedded Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+203,Intel,ECE,VLSI Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+204,Infineon,ECE,Electronics Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+205,Qualcomm,ECE,FPGA Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+206,Flipkart,CSE,Data Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+207,Cisco,ECE,Hardware Engineer,Technical,Medium,VHDL,What is architecture?,Defines implementation.
+208,Infosys,CSE,Frontend Engineer,Technical,Medium,React,What are React hooks?,Functions for state and lifecycle in functional components.
+209,Microsoft,CSE,Data Engineer,Technical,Medium,Deep Learning,What is gradient descent?,Optimization algorithm.
+210,Microsoft,CSE,ML Engineer,Technical,Easy,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+211,Intel,ECE,FPGA Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+212,NVIDIA,CSE,Backend Engineer,Technical,Medium,React,What is JSX?,JavaScript XML syntax.
+213,Qualcomm,ECE,VLSI Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+214,Intel,CSE,Frontend Engineer,Technical,Medium,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+215,Flipkart,CSE,Frontend Engineer,Technical,Medium,Node.js,What is Express?,A Node.js web framework.
+216,Wipro,CSE,Backend Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+217,NXP,ECE,VLSI Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+218,NXP,ECE,FPGA Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+219,Qualcomm,ECE,VLSI Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+220,Texas Instruments,ECE,Embedded Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+221,NVIDIA,ECE,VLSI Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+222,Wipro,CSE,Data Engineer,Technical,Medium,Node.js,What is Express?,A Node.js web framework.
+223,HCL,CSE,Software Engineer,Technical,Easy,React,What is JSX?,JavaScript XML syntax.
+224,Google,CSE,AI Engineer,Technical,Medium,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+225,Intel,CSE,Software Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+226,Infineon,ECE,Embedded Engineer,Technical,Hard,Embedded C,What is UART?,Serial communication protocol.
+227,Samsung,ECE,Electronics Engineer,Technical,Easy,VLSI,What is CMOS?,Complementary MOS technology.
+228,Siemens,ECE,VLSI Engineer,Technical,Medium,VHDL,What is architecture?,Defines implementation.
+229,Accenture,CSE,ML Engineer,Technical,Medium,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+230,Flipkart,CSE,Backend Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+231,Capgemini,CSE,Frontend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+232,Analog Devices,ECE,Hardware Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+233,Intel,ECE,Hardware Engineer,Technical,Easy,VHDL,What is architecture?,Defines implementation.
+234,PhonePe,CSE,Data Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+235,Wipro,CSE,Software Engineer,Technical,Medium,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+236,Google,CSE,Backend Engineer,Technical,Easy,Machine Learning,What is overfitting?,Model memorizes training data.
+237,Siemens,ECE,FPGA Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+238,Texas Instruments,ECE,Embedded Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+239,Qualcomm,ECE,FPGA Engineer,Technical,Medium,Signals,What is Fourier Transform?,Converts time to frequency domain.
+240,STMicroelectronics,ECE,FPGA Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+241,Infineon,ECE,FPGA Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+242,Adobe,CSE,Data Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+243,Samsung,ECE,VLSI Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+244,Intel,ECE,Hardware Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+245,NXP,ECE,Electronics Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+246,Microsoft,CSE,AI Engineer,Technical,Hard,React,What is JSX?,JavaScript XML syntax.
+247,NXP,ECE,FPGA Engineer,Technical,Hard,Analog Electronics,What is feedback?,Feeds output back to input.
+248,Infosys,CSE,Frontend Engineer,Technical,Hard,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+249,Samsung,ECE,FPGA Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+250,Cisco,ECE,Embedded Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+251,STMicroelectronics,ECE,Embedded Engineer,Technical,Hard,Communication Systems,What is modulation?,Encode information onto carrier.
+252,Texas Instruments,ECE,Hardware Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+253,Samsung,ECE,Embedded Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+254,NVIDIA,ECE,Hardware Engineer,Technical,Hard,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+255,STMicroelectronics,ECE,Embedded Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+256,Texas Instruments,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+257,Analog Devices,ECE,Embedded Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+258,NXP,ECE,Hardware Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+259,Google,CSE,ML Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+260,IBM,CSE,Backend Engineer,Technical,Hard,OOP,What is polymorphism?,Ability of an object to take many forms.
+261,Bosch,ECE,Hardware Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+262,Wipro,CSE,AI Engineer,Technical,Hard,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+263,Intel,CSE,Data Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+264,Apple,CSE,Data Engineer,Technical,Easy,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+265,Qualcomm,ECE,VLSI Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+266,Google,CSE,Backend Engineer,Technical,Hard,Python,What are decorators?,Functions that modify other functions.
+267,STMicroelectronics,ECE,Hardware Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+268,PhonePe,CSE,AI Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+269,Capgemini,CSE,Backend Engineer,Technical,Hard,OOP,What is polymorphism?,Ability of an object to take many forms.
+270,Capgemini,CSE,ML Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+271,NVIDIA,ECE,VLSI Engineer,Technical,Medium,Signals,What is Fourier Transform?,Converts time to frequency domain.
+272,IBM,CSE,Backend Engineer,Technical,Hard,OOP,What is polymorphism?,Ability of an object to take many forms.
+273,Infineon,ECE,FPGA Engineer,Technical,Easy,Digital Electronics,What is a flip-flop?,A bistable storage element.
+274,Capgemini,CSE,Data Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+275,Texas Instruments,ECE,VLSI Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+276,Qualcomm,ECE,Hardware Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+277,Intel,CSE,ML Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+278,Bosch,ECE,VLSI Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+279,Analog Devices,ECE,Embedded Engineer,Technical,Hard,Embedded C,volatile keyword?,Prevents compiler optimization.
+280,Infosys,CSE,Data Engineer,Technical,Easy,React,What are React hooks?,Functions for state and lifecycle in functional components.
+281,Cisco,ECE,Embedded Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+282,Intel,ECE,FPGA Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+283,Flipkart,CSE,Frontend Engineer,Technical,Medium,Deep Learning,What is gradient descent?,Optimization algorithm.
+284,PhonePe,CSE,Software Engineer,Technical,Medium,Java,What is JVM?,Java Virtual Machine.
+285,Oracle,CSE,AI Engineer,Technical,Medium,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+286,Intel,CSE,AI Engineer,Technical,Hard,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+287,Cisco,ECE,Electronics Engineer,Technical,Easy,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+288,Infosys,CSE,Software Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+289,Analog Devices,ECE,Embedded Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+290,Infosys,CSE,Backend Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+291,Intel,CSE,AI Engineer,Technical,Hard,Machine Learning,What is overfitting?,Model memorizes training data.
+292,Texas Instruments,ECE,FPGA Engineer,Technical,Medium,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+293,Qualcomm,ECE,FPGA Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+294,Intel,ECE,FPGA Engineer,Technical,Easy,Digital Electronics,What is a flip-flop?,A bistable storage element.
+295,Cisco,CSE,Data Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+296,NXP,ECE,Embedded Engineer,Technical,Medium,Signals,What is Fourier Transform?,Converts time to frequency domain.
+297,Cisco,ECE,Hardware Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+298,Amazon,CSE,Backend Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+299,Capgemini,CSE,Software Engineer,Technical,Medium,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+300,Google,CSE,Software Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+301,Analog Devices,ECE,Hardware Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+302,Capgemini,CSE,Frontend Engineer,Technical,Easy,React,What are React hooks?,Functions for state and lifecycle in functional components.
+303,Capgemini,CSE,ML Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+304,Google,CSE,AI Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+305,STMicroelectronics,ECE,VLSI Engineer,Technical,Medium,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+306,NVIDIA,ECE,Electronics Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+307,Flipkart,CSE,AI Engineer,Technical,Hard,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+308,Qualcomm,ECE,FPGA Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+309,Capgemini,CSE,Data Engineer,Technical,Medium,React,What is JSX?,JavaScript XML syntax.
+310,Flipkart,CSE,Frontend Engineer,Technical,Easy,Java,What is JVM?,Java Virtual Machine.
+311,IBM,CSE,Frontend Engineer,Technical,Hard,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+312,Amazon,CSE,Backend Engineer,Technical,Medium,Java,What is JVM?,Java Virtual Machine.
+313,NVIDIA,ECE,Hardware Engineer,Technical,Hard,Communication Systems,What is modulation?,Encode information onto carrier.
+314,Capgemini,CSE,Frontend Engineer,Technical,Medium,Deep Learning,What is gradient descent?,Optimization algorithm.
+315,Bosch,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+316,Texas Instruments,ECE,Electronics Engineer,Technical,Hard,Analog Electronics,What is feedback?,Feeds output back to input.
+317,Infineon,ECE,VLSI Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+318,Cisco,ECE,Embedded Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+319,Intel,CSE,Data Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+320,Analog Devices,ECE,Embedded Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+321,Cognizant,CSE,AI Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+322,Texas Instruments,ECE,Hardware Engineer,Technical,Hard,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+323,Analog Devices,ECE,Embedded Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+324,Infineon,ECE,FPGA Engineer,Technical,Easy,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+325,Accenture,CSE,Data Engineer,Coding,Easy,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+326,Texas Instruments,ECE,Embedded Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+327,Siemens,ECE,VLSI Engineer,Technical,Easy,Analog Electronics,What is feedback?,Feeds output back to input.
+328,Bosch,ECE,Hardware Engineer,Technical,Hard,VHDL,What is architecture?,Defines implementation.
+329,Accenture,CSE,AI Engineer,Technical,Easy,DBMS,What is normalization?,Reduces redundancy in databases.
+330,HCL,CSE,Backend Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+331,Microsoft,CSE,Software Engineer,Coding,Easy,DSA,Explain binary search.,Searches a sorted array in O(log n).
+332,NVIDIA,ECE,Electronics Engineer,Technical,Easy,Digital Electronics,What is a flip-flop?,A bistable storage element.
+333,Siemens,ECE,VLSI Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+334,Adobe,CSE,Data Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+335,Samsung,ECE,FPGA Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+336,Texas Instruments,ECE,FPGA Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+337,Accenture,CSE,Software Engineer,Technical,Medium,Python,What are decorators?,Functions that modify other functions.
+338,IBM,CSE,Backend Engineer,Technical,Easy,DBMS,What is a primary key?,A unique identifier for a row.
+339,Intel,ECE,Electronics Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+340,IBM,CSE,Frontend Engineer,Technical,Easy,Java,Explain method overloading.,Same method name with different parameters.
+341,Apple,CSE,AI Engineer,Technical,Easy,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+342,PhonePe,CSE,Software Engineer,Technical,Easy,Node.js,What is Express?,A Node.js web framework.
+343,Google,CSE,ML Engineer,Technical,Easy,DBMS,What is a primary key?,A unique identifier for a row.
+344,Texas Instruments,ECE,Hardware Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+345,Flipkart,CSE,AI Engineer,Technical,Hard,React,What are React hooks?,Functions for state and lifecycle in functional components.
+346,HCL,CSE,Software Engineer,Technical,Hard,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+347,Intel,ECE,Electronics Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+348,Wipro,CSE,Backend Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+349,Amazon,CSE,Backend Engineer,Technical,Medium,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+350,Cognizant,CSE,Software Engineer,Technical,Medium,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+351,Microsoft,CSE,ML Engineer,Technical,Easy,DBMS,What is normalization?,Reduces redundancy in databases.
+352,NVIDIA,CSE,Software Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+353,Wipro,CSE,Backend Engineer,Technical,Easy,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+354,Bosch,ECE,VLSI Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+355,Analog Devices,ECE,Electronics Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+356,NVIDIA,ECE,Hardware Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+357,Microsoft,CSE,ML Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+358,Bosch,ECE,Hardware Engineer,Technical,Easy,VHDL,What is architecture?,Defines implementation.
+359,Amazon,CSE,AI Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+360,Intel,ECE,Electronics Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+361,Texas Instruments,ECE,VLSI Engineer,Technical,Medium,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+362,HCL,CSE,ML Engineer,Coding,Hard,DSA,What is a stack?,A LIFO data structure.
+363,Bosch,ECE,Embedded Engineer,Technical,Medium,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+364,NXP,ECE,Embedded Engineer,Technical,Medium,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+365,NXP,ECE,Embedded Engineer,Technical,Hard,Embedded C,volatile keyword?,Prevents compiler optimization.
+366,Cognizant,CSE,AI Engineer,Technical,Medium,Machine Learning,What is overfitting?,Model memorizes training data.
+367,NXP,ECE,Electronics Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+368,Intel,CSE,Data Engineer,Technical,Medium,React,What are React hooks?,Functions for state and lifecycle in functional components.
+369,Google,CSE,AI Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+370,Qualcomm,ECE,Embedded Engineer,Technical,Hard,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+371,Paytm,CSE,Software Engineer,Technical,Medium,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+372,NXP,ECE,Hardware Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+373,Samsung,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+374,TCS,CSE,Backend Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+375,Analog Devices,ECE,VLSI Engineer,Technical,Hard,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+376,Adobe,CSE,Backend Engineer,Coding,Hard,DSA,What is a stack?,A LIFO data structure.
+377,IBM,CSE,Software Engineer,Technical,Hard,DBMS,What is normalization?,Reduces redundancy in databases.
+378,Adobe,CSE,AI Engineer,Technical,Hard,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+379,Apple,CSE,Software Engineer,Technical,Medium,React,What is JSX?,JavaScript XML syntax.
+380,NXP,ECE,Embedded Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+381,Accenture,CSE,AI Engineer,Coding,Easy,DSA,What is a stack?,A LIFO data structure.
+382,Infineon,ECE,Electronics Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+383,Capgemini,CSE,ML Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+384,Google,CSE,Software Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+385,Infosys,CSE,Backend Engineer,Coding,Medium,DSA,What is a stack?,A LIFO data structure.
+386,Amazon,CSE,Software Engineer,Technical,Hard,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+387,HCL,CSE,AI Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+388,IBM,CSE,AI Engineer,Technical,Hard,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+389,Accenture,CSE,AI Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+390,Apple,CSE,ML Engineer,Technical,Hard,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+391,Paytm,CSE,Frontend Engineer,Technical,Easy,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+392,Flipkart,CSE,AI Engineer,Technical,Medium,Python,What are decorators?,Functions that modify other functions.
+393,Bosch,ECE,Embedded Engineer,Technical,Hard,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+394,Samsung,ECE,Hardware Engineer,Technical,Medium,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+395,Amazon,CSE,Backend Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+396,Oracle,CSE,Data Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+397,Flipkart,CSE,Backend Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+398,Qualcomm,ECE,VLSI Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+399,Intel,CSE,Backend Engineer,Technical,Easy,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+400,Paytm,CSE,ML Engineer,Technical,Easy,Java,What is JVM?,Java Virtual Machine.
+401,Analog Devices,ECE,Electronics Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+402,Texas Instruments,ECE,VLSI Engineer,Technical,Easy,VHDL,What is an entity?,Defines module interface.
+403,TCS,CSE,ML Engineer,Technical,Hard,React,What is JSX?,JavaScript XML syntax.
+404,NXP,ECE,Electronics Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+405,Accenture,CSE,Software Engineer,Technical,Easy,System Design,What is load balancing?,Distributes traffic across servers.
+406,NVIDIA,ECE,VLSI Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+407,Apple,CSE,ML Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+408,Flipkart,CSE,Backend Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+409,Intel,CSE,AI Engineer,Technical,Easy,Python,What are decorators?,Functions that modify other functions.
+410,NXP,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+411,Qualcomm,ECE,Electronics Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+412,IBM,CSE,ML Engineer,Technical,Hard,OOP,What is polymorphism?,Ability of an object to take many forms.
+413,Infineon,ECE,Embedded Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+414,Qualcomm,ECE,Electronics Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+415,Qualcomm,ECE,Hardware Engineer,Technical,Medium,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+416,TCS,CSE,AI Engineer,Technical,Easy,JavaScript,What is closure?,Function with preserved lexical scope.
+417,Intel,ECE,Hardware Engineer,Technical,Medium,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+418,Bosch,ECE,Embedded Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+419,Intel,CSE,Data Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+420,Samsung,ECE,Electronics Engineer,Technical,Hard,Analog Electronics,What is feedback?,Feeds output back to input.
+421,NXP,ECE,Hardware Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+422,Cisco,CSE,Backend Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+423,Bosch,ECE,Embedded Engineer,Technical,Hard,VLSI,What is CMOS?,Complementary MOS technology.
+424,IBM,CSE,Backend Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+425,Infosys,CSE,Data Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+426,Infineon,ECE,VLSI Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+427,Texas Instruments,ECE,FPGA Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+428,Cisco,ECE,Embedded Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+429,Oracle,CSE,Backend Engineer,Coding,Hard,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+430,Bosch,ECE,VLSI Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+431,IBM,CSE,AI Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+432,Capgemini,CSE,Backend Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+433,Google,CSE,Software Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+434,Bosch,ECE,Hardware Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+435,Qualcomm,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+436,Microsoft,CSE,Backend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+437,Cisco,CSE,Frontend Engineer,Technical,Medium,SQL,What is JOIN?,Combines rows from multiple tables.
+438,Google,CSE,Backend Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+439,NVIDIA,ECE,Hardware Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+440,Wipro,CSE,ML Engineer,Technical,Easy,Java,What is JVM?,Java Virtual Machine.
+441,Wipro,CSE,ML Engineer,Technical,Medium,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+442,STMicroelectronics,ECE,Embedded Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+443,TCS,CSE,Backend Engineer,Technical,Easy,JavaScript,What is closure?,Function with preserved lexical scope.
+444,Intel,ECE,FPGA Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+445,Paytm,CSE,ML Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+446,Adobe,CSE,Data Engineer,Technical,Hard,Java,Explain method overloading.,Same method name with different parameters.
+447,Intel,ECE,FPGA Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+448,TCS,CSE,ML Engineer,Technical,Medium,JavaScript,What is closure?,Function with preserved lexical scope.
+449,Infineon,ECE,FPGA Engineer,Technical,Medium,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+450,STMicroelectronics,ECE,Electronics Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+451,Flipkart,CSE,Software Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+452,NVIDIA,CSE,Software Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+453,Cisco,ECE,Embedded Engineer,Technical,Medium,VHDL,What is architecture?,Defines implementation.
+454,HCL,CSE,AI Engineer,Technical,Easy,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+455,Cisco,CSE,Frontend Engineer,Technical,Easy,Java,What is JVM?,Java Virtual Machine.
+456,Cisco,ECE,Hardware Engineer,Technical,Easy,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+457,Analog Devices,ECE,Embedded Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+458,Samsung,ECE,VLSI Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+459,Infineon,ECE,VLSI Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+460,Cisco,ECE,Electronics Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+461,Analog Devices,ECE,FPGA Engineer,Technical,Medium,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+462,Wipro,CSE,Data Engineer,Technical,Hard,SQL,What is JOIN?,Combines rows from multiple tables.
+463,Oracle,CSE,Backend Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+464,NVIDIA,CSE,ML Engineer,Technical,Medium,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+465,STMicroelectronics,ECE,FPGA Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+466,Samsung,ECE,Electronics Engineer,Technical,Easy,VLSI,Setup vs hold time?,Timing constraints.
+467,Siemens,ECE,FPGA Engineer,Technical,Easy,VLSI,What is CMOS?,Complementary MOS technology.
+468,Oracle,CSE,Software Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+469,Cisco,ECE,VLSI Engineer,Technical,Medium,Signals,What is Fourier Transform?,Converts time to frequency domain.
+470,Samsung,ECE,Electronics Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+471,IBM,CSE,Backend Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+472,Oracle,CSE,Frontend Engineer,Technical,Easy,System Design,What is load balancing?,Distributes traffic across servers.
+473,Cisco,CSE,Backend Engineer,Technical,Easy,React,What are React hooks?,Functions for state and lifecycle in functional components.
+474,Intel,ECE,FPGA Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+475,Google,CSE,Data Engineer,Technical,Hard,OOP,What is polymorphism?,Ability of an object to take many forms.
+476,Bosch,ECE,Hardware Engineer,Technical,Hard,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+477,HCL,CSE,AI Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+478,Cisco,ECE,Electronics Engineer,Technical,Medium,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+479,Amazon,CSE,AI Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+480,Samsung,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+481,NVIDIA,ECE,Electronics Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+482,TCS,CSE,Data Engineer,Coding,Medium,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+483,STMicroelectronics,ECE,VLSI Engineer,Technical,Medium,Signals,Energy vs power signal?,Classification by energy/power.
+484,Qualcomm,ECE,Electronics Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+485,Apple,CSE,AI Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+486,Texas Instruments,ECE,Hardware Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+487,Infosys,CSE,ML Engineer,Technical,Easy,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+488,Flipkart,CSE,AI Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+489,NVIDIA,ECE,VLSI Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+490,Analog Devices,ECE,VLSI Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+491,NVIDIA,CSE,Frontend Engineer,Technical,Hard,Node.js,What is Express?,A Node.js web framework.
+492,Intel,CSE,Backend Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+493,Capgemini,CSE,AI Engineer,Technical,Medium,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+494,TCS,CSE,Data Engineer,Technical,Hard,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+495,Analog Devices,ECE,Electronics Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+496,NXP,ECE,VLSI Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+497,Analog Devices,ECE,Electronics Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+498,Siemens,ECE,Hardware Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+499,Capgemini,CSE,Data Engineer,Technical,Medium,React,What is JSX?,JavaScript XML syntax.
+500,HCL,CSE,Backend Engineer,Technical,Medium,Java,Explain method overloading.,Same method name with different parameters.
+501,NVIDIA,ECE,Electronics Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+502,Bosch,ECE,Hardware Engineer,Technical,Easy,VLSI,What is CMOS?,Complementary MOS technology.
+503,Cisco,ECE,Electronics Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+504,Flipkart,CSE,Backend Engineer,Technical,Hard,DBMS,What is normalization?,Reduces redundancy in databases.
+505,Accenture,CSE,Software Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+506,Siemens,ECE,Hardware Engineer,Technical,Easy,VHDL,What is an entity?,Defines module interface.
+507,Apple,CSE,Software Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+508,NVIDIA,ECE,FPGA Engineer,Technical,Medium,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+509,Cisco,CSE,Data Engineer,Technical,Hard,DBMS,What is a primary key?,A unique identifier for a row.
+510,Cognizant,CSE,ML Engineer,Technical,Easy,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+511,Cognizant,CSE,AI Engineer,Technical,Medium,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+512,Analog Devices,ECE,Embedded Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+513,NXP,ECE,VLSI Engineer,Technical,Easy,Analog Electronics,What is feedback?,Feeds output back to input.
+514,Samsung,ECE,FPGA Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+515,Siemens,ECE,VLSI Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+516,Cisco,CSE,Software Engineer,Technical,Easy,SQL,What is JOIN?,Combines rows from multiple tables.
+517,NVIDIA,CSE,AI Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+518,NXP,ECE,Embedded Engineer,Technical,Medium,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+519,Adobe,CSE,Data Engineer,Coding,Easy,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+520,NVIDIA,ECE,VLSI Engineer,Technical,Easy,VHDL,What is an entity?,Defines module interface.
+521,Adobe,CSE,AI Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+522,NVIDIA,ECE,Hardware Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+523,Oracle,CSE,Data Engineer,Technical,Easy,System Design,What is caching?,Stores frequently accessed data.
+524,Bosch,ECE,FPGA Engineer,Technical,Easy,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+525,Accenture,CSE,Software Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+526,HCL,CSE,ML Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+527,Intel,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+528,Texas Instruments,ECE,Electronics Engineer,Technical,Medium,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+529,Analog Devices,ECE,FPGA Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+530,Adobe,CSE,Data Engineer,Technical,Medium,Deep Learning,What is CNN?,Convolutional Neural Network.
+531,Siemens,ECE,VLSI Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+532,Analog Devices,ECE,Embedded Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+533,Samsung,ECE,Embedded Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+534,NXP,ECE,Embedded Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+535,STMicroelectronics,ECE,Hardware Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+536,STMicroelectronics,ECE,Hardware Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+537,Adobe,CSE,Frontend Engineer,Technical,Easy,Java,Explain method overloading.,Same method name with different parameters.
+538,NXP,ECE,Electronics Engineer,Technical,Easy,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+539,Apple,CSE,AI Engineer,Coding,Medium,DSA,What is a stack?,A LIFO data structure.
+540,Amazon,CSE,Frontend Engineer,Technical,Medium,Java,Explain method overloading.,Same method name with different parameters.
+541,Texas Instruments,ECE,Hardware Engineer,Technical,Easy,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+542,Cisco,ECE,Hardware Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+543,Infosys,CSE,ML Engineer,Technical,Medium,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+544,Cisco,ECE,VLSI Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+545,Microsoft,CSE,Software Engineer,Technical,Easy,System Design,What is load balancing?,Distributes traffic across servers.
+546,Infineon,ECE,VLSI Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+547,Infosys,CSE,Backend Engineer,Technical,Easy,Machine Learning,What is overfitting?,Model memorizes training data.
+548,Intel,ECE,VLSI Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+549,Capgemini,CSE,Backend Engineer,Technical,Medium,DBMS,What is normalization?,Reduces redundancy in databases.
+550,STMicroelectronics,ECE,FPGA Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+551,Intel,ECE,Electronics Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+552,NXP,ECE,VLSI Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+553,Wipro,CSE,Frontend Engineer,Technical,Medium,JavaScript,What is closure?,Function with preserved lexical scope.
+554,Intel,CSE,Frontend Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+555,Analog Devices,ECE,FPGA Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+556,PhonePe,CSE,Data Engineer,Technical,Hard,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+557,Flipkart,CSE,Software Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+558,Google,CSE,Backend Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+559,Capgemini,CSE,Software Engineer,Technical,Easy,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+560,TCS,CSE,Data Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+561,Intel,CSE,Data Engineer,Technical,Medium,Node.js,What is npm?,Node package manager.
+562,HCL,CSE,Backend Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+563,Cisco,ECE,Embedded Engineer,Technical,Easy,VHDL,What is architecture?,Defines implementation.
+564,Intel,ECE,Hardware Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+565,Adobe,CSE,ML Engineer,Technical,Hard,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+566,Cognizant,CSE,Data Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+567,Infineon,ECE,Hardware Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+568,Texas Instruments,ECE,Embedded Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+569,HCL,CSE,Frontend Engineer,Technical,Medium,SQL,What is JOIN?,Combines rows from multiple tables.
+570,Analog Devices,ECE,VLSI Engineer,Technical,Easy,VHDL,What is architecture?,Defines implementation.
+571,Analog Devices,ECE,Electronics Engineer,Technical,Medium,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+572,Cisco,CSE,ML Engineer,Technical,Hard,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+573,Samsung,ECE,Embedded Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+574,STMicroelectronics,ECE,Embedded Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+575,Intel,ECE,FPGA Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+576,Paytm,CSE,Data Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+577,HCL,CSE,ML Engineer,Technical,Hard,Machine Learning,What is overfitting?,Model memorizes training data.
+578,Accenture,CSE,Frontend Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+579,Cisco,CSE,Software Engineer,Technical,Easy,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+580,Apple,CSE,ML Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+581,Analog Devices,ECE,FPGA Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+582,Texas Instruments,ECE,Hardware Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+583,NVIDIA,ECE,FPGA Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+584,Flipkart,CSE,AI Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+585,Oracle,CSE,Software Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+586,Cisco,CSE,Backend Engineer,Technical,Hard,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+587,HCL,CSE,AI Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+588,Microsoft,CSE,Software Engineer,Technical,Medium,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+589,Bosch,ECE,Embedded Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+590,Wipro,CSE,Frontend Engineer,Technical,Medium,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+591,Qualcomm,ECE,Embedded Engineer,Technical,Hard,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+592,NXP,ECE,VLSI Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+593,Apple,CSE,AI Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+594,Oracle,CSE,Data Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+595,Infineon,ECE,FPGA Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+596,NXP,ECE,VLSI Engineer,Technical,Medium,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+597,Infosys,CSE,Backend Engineer,Technical,Hard,Machine Learning,What is overfitting?,Model memorizes training data.
+598,Cisco,ECE,VLSI Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+599,Cisco,ECE,Embedded Engineer,Technical,Medium,VHDL,What is architecture?,Defines implementation.
+600,Wipro,CSE,AI Engineer,Technical,Easy,Node.js,What is Express?,A Node.js web framework.
+601,Flipkart,CSE,AI Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+602,Infineon,ECE,VLSI Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+603,IBM,CSE,Frontend Engineer,Technical,Easy,React,What are React hooks?,Functions for state and lifecycle in functional components.
+604,Intel,ECE,Electronics Engineer,Technical,Hard,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+605,Cisco,CSE,Software Engineer,Technical,Easy,Deep Learning,What is gradient descent?,Optimization algorithm.
+606,Analog Devices,ECE,Electronics Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+607,Accenture,CSE,Data Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+608,Cisco,ECE,Embedded Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+609,Capgemini,CSE,Backend Engineer,Technical,Hard,OOP,What is polymorphism?,Ability of an object to take many forms.
+610,NXP,ECE,VLSI Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+611,Paytm,CSE,Backend Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+612,Texas Instruments,ECE,VLSI Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+613,Siemens,ECE,VLSI Engineer,Technical,Hard,Analog Electronics,What is feedback?,Feeds output back to input.
+614,NVIDIA,ECE,Electronics Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+615,Infineon,ECE,Embedded Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+616,Wipro,CSE,ML Engineer,Technical,Hard,Machine Learning,What is overfitting?,Model memorizes training data.
+617,TCS,CSE,Backend Engineer,Technical,Hard,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+618,HCL,CSE,Data Engineer,Coding,Hard,DSA,What is a stack?,A LIFO data structure.
+619,NVIDIA,CSE,ML Engineer,Technical,Easy,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+620,Adobe,CSE,Backend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+621,Siemens,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+622,IBM,CSE,ML Engineer,Technical,Easy,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+623,Siemens,ECE,VLSI Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+624,Siemens,ECE,FPGA Engineer,Technical,Medium,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+625,IBM,CSE,Frontend Engineer,Technical,Medium,React,What are React hooks?,Functions for state and lifecycle in functional components.
+626,Cisco,ECE,Hardware Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+627,Analog Devices,ECE,FPGA Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+628,NVIDIA,CSE,Data Engineer,Technical,Medium,Java,Explain method overloading.,Same method name with different parameters.
+629,Analog Devices,ECE,Hardware Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+630,TCS,CSE,AI Engineer,Technical,Easy,DBMS,What is normalization?,Reduces redundancy in databases.
+631,Analog Devices,ECE,FPGA Engineer,Technical,Medium,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+632,Cisco,ECE,VLSI Engineer,Technical,Easy,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+633,HCL,CSE,ML Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+634,Qualcomm,ECE,Electronics Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+635,Analog Devices,ECE,Electronics Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+636,Samsung,ECE,VLSI Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+637,NVIDIA,ECE,Electronics Engineer,Technical,Easy,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+638,NXP,ECE,Electronics Engineer,Technical,Medium,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+639,Intel,ECE,Hardware Engineer,Technical,Hard,VHDL,What is architecture?,Defines implementation.
+640,Qualcomm,ECE,Embedded Engineer,Technical,Hard,VHDL,What is architecture?,Defines implementation.
+641,NXP,ECE,Embedded Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+642,Bosch,ECE,VLSI Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+643,Paytm,CSE,ML Engineer,Technical,Easy,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+644,Bosch,ECE,Embedded Engineer,Technical,Medium,Signals,What is Fourier Transform?,Converts time to frequency domain.
+645,Siemens,ECE,Hardware Engineer,Technical,Medium,FPGA,What is FPGA?,Programmable logic device.
+646,Cisco,CSE,Software Engineer,Coding,Hard,DSA,Explain binary search.,Searches a sorted array in O(log n).
+647,Intel,ECE,Electronics Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+648,STMicroelectronics,ECE,VLSI Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+649,Cisco,CSE,Software Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+650,Capgemini,CSE,Software Engineer,Technical,Medium,Node.js,What is npm?,Node package manager.
+651,Analog Devices,ECE,VLSI Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+652,Siemens,ECE,Hardware Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+653,TCS,CSE,Data Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+654,Intel,ECE,FPGA Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+655,Siemens,ECE,Embedded Engineer,Technical,Medium,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+656,STMicroelectronics,ECE,Electronics Engineer,Technical,Medium,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+657,Intel,CSE,ML Engineer,Technical,Hard,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+658,Cisco,ECE,FPGA Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+659,Flipkart,CSE,Frontend Engineer,Technical,Hard,SQL,What is JOIN?,Combines rows from multiple tables.
+660,Wipro,CSE,Frontend Engineer,Technical,Easy,DBMS,What is normalization?,Reduces redundancy in databases.
+661,Accenture,CSE,ML Engineer,Technical,Hard,React,What is JSX?,JavaScript XML syntax.
+662,Paytm,CSE,Backend Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+663,Cisco,ECE,FPGA Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+664,Microsoft,CSE,Backend Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+665,Wipro,CSE,Software Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+666,Analog Devices,ECE,VLSI Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+667,Infosys,CSE,Data Engineer,Technical,Easy,Java,Explain method overloading.,Same method name with different parameters.
+668,Adobe,CSE,Software Engineer,Technical,Medium,React,What is JSX?,JavaScript XML syntax.
+669,NVIDIA,CSE,Frontend Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+670,Cognizant,CSE,Data Engineer,Technical,Hard,SQL,What is JOIN?,Combines rows from multiple tables.
+671,Qualcomm,ECE,Embedded Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+672,Accenture,CSE,Backend Engineer,Technical,Medium,Node.js,What is npm?,Node package manager.
+673,Google,CSE,AI Engineer,Technical,Medium,Deep Learning,What is CNN?,Convolutional Neural Network.
+674,Analog Devices,ECE,VLSI Engineer,Technical,Hard,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+675,Cisco,ECE,Electronics Engineer,Technical,Easy,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+676,Flipkart,CSE,Data Engineer,Technical,Hard,DBMS,What is a primary key?,A unique identifier for a row.
+677,NXP,ECE,Hardware Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+678,Wipro,CSE,AI Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+679,Siemens,ECE,VLSI Engineer,Technical,Easy,VLSI,What is CMOS?,Complementary MOS technology.
+680,Intel,ECE,Embedded Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+681,Cognizant,CSE,Data Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+682,Cisco,ECE,FPGA Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+683,Intel,ECE,VLSI Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+684,Qualcomm,ECE,Hardware Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+685,NVIDIA,CSE,Frontend Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+686,Cisco,ECE,VLSI Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+687,STMicroelectronics,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+688,Cognizant,CSE,Frontend Engineer,Technical,Medium,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+689,Bosch,ECE,Hardware Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+690,Google,CSE,Frontend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+691,Bosch,ECE,VLSI Engineer,Technical,Hard,Signals,Energy vs power signal?,Classification by energy/power.
+692,Microsoft,CSE,Backend Engineer,Technical,Medium,DBMS,What is normalization?,Reduces redundancy in databases.
+693,PhonePe,CSE,Data Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+694,Bosch,ECE,Electronics Engineer,Technical,Medium,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+695,NXP,ECE,Embedded Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+696,Amazon,CSE,Frontend Engineer,Technical,Hard,DBMS,What is normalization?,Reduces redundancy in databases.
+697,NXP,ECE,Hardware Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+698,Microsoft,CSE,Backend Engineer,Technical,Easy,System Design,What is load balancing?,Distributes traffic across servers.
+699,Cisco,ECE,Embedded Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+700,Google,CSE,ML Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+701,Accenture,CSE,Frontend Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+702,STMicroelectronics,ECE,Hardware Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+703,Infosys,CSE,Software Engineer,Technical,Medium,Python,What are decorators?,Functions that modify other functions.
+704,IBM,CSE,Software Engineer,Technical,Medium,Machine Learning,What is overfitting?,Model memorizes training data.
+705,Oracle,CSE,Data Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+706,HCL,CSE,Data Engineer,Coding,Medium,DSA,Explain binary search.,Searches a sorted array in O(log n).
+707,Cisco,ECE,FPGA Engineer,Technical,Medium,Signals,Energy vs power signal?,Classification by energy/power.
+708,TCS,CSE,Data Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+709,Oracle,CSE,AI Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+710,IBM,CSE,ML Engineer,Technical,Easy,Python,What are decorators?,Functions that modify other functions.
+711,Qualcomm,ECE,Electronics Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+712,STMicroelectronics,ECE,Hardware Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+713,Capgemini,CSE,AI Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+714,Infineon,ECE,VLSI Engineer,Technical,Medium,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+715,Texas Instruments,ECE,FPGA Engineer,Technical,Medium,Signals,Energy vs power signal?,Classification by energy/power.
+716,Qualcomm,ECE,Electronics Engineer,Technical,Easy,Verilog,What is an always block?,Defines procedural logic.
+717,Intel,CSE,Backend Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+718,Analog Devices,ECE,Electronics Engineer,Technical,Medium,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+719,Intel,ECE,FPGA Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+720,Bosch,ECE,Embedded Engineer,Technical,Medium,Digital Electronics,What is a flip-flop?,A bistable storage element.
+721,Siemens,ECE,Electronics Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+722,Analog Devices,ECE,Embedded Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+723,Infineon,ECE,VLSI Engineer,Technical,Hard,VLSI,What is CMOS?,Complementary MOS technology.
+724,PhonePe,CSE,Data Engineer,Coding,Hard,DSA,What is a stack?,A LIFO data structure.
+725,Bosch,ECE,FPGA Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+726,Flipkart,CSE,Backend Engineer,Technical,Hard,Deep Learning,What is CNN?,Convolutional Neural Network.
+727,STMicroelectronics,ECE,Embedded Engineer,Technical,Medium,Signals,What is Fourier Transform?,Converts time to frequency domain.
+728,IBM,CSE,Backend Engineer,Technical,Hard,DBMS,What is normalization?,Reduces redundancy in databases.
+729,Siemens,ECE,Embedded Engineer,Technical,Easy,Embedded C,volatile keyword?,Prevents compiler optimization.
+730,Flipkart,CSE,ML Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+731,Texas Instruments,ECE,Embedded Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+732,Cisco,ECE,FPGA Engineer,Technical,Hard,VHDL,What is an entity?,Defines module interface.
+733,Texas Instruments,ECE,Embedded Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+734,NVIDIA,ECE,Electronics Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+735,Accenture,CSE,Frontend Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+736,NXP,ECE,VLSI Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+737,Oracle,CSE,Frontend Engineer,Technical,Easy,Machine Learning,What is overfitting?,Model memorizes training data.
+738,IBM,CSE,Data Engineer,Technical,Hard,SQL,What is JOIN?,Combines rows from multiple tables.
+739,Infineon,ECE,FPGA Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+740,Capgemini,CSE,Data Engineer,Coding,Hard,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+741,Paytm,CSE,AI Engineer,Technical,Easy,Machine Learning,What is overfitting?,Model memorizes training data.
+742,Qualcomm,ECE,Hardware Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+743,NXP,ECE,Embedded Engineer,Technical,Medium,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+744,Adobe,CSE,AI Engineer,Technical,Easy,JavaScript,What is closure?,Function with preserved lexical scope.
+745,Cisco,CSE,ML Engineer,Technical,Easy,JavaScript,What is closure?,Function with preserved lexical scope.
+746,Analog Devices,ECE,Embedded Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+747,Bosch,ECE,VLSI Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+748,Intel,ECE,Hardware Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+749,Paytm,CSE,Frontend Engineer,Technical,Hard,Node.js,What is Express?,A Node.js web framework.
+750,Infosys,CSE,AI Engineer,Technical,Medium,Machine Learning,What is overfitting?,Model memorizes training data.
+751,Infosys,CSE,Data Engineer,Technical,Medium,DBMS,What is normalization?,Reduces redundancy in databases.
+752,NVIDIA,CSE,Software Engineer,Technical,Easy,DBMS,What is a primary key?,A unique identifier for a row.
+753,Siemens,ECE,VLSI Engineer,Technical,Hard,VLSI,Setup vs hold time?,Timing constraints.
+754,Infosys,CSE,Software Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+755,NVIDIA,ECE,VLSI Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+756,Oracle,CSE,Backend Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+757,Bosch,ECE,Electronics Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+758,Cognizant,CSE,Data Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+759,Capgemini,CSE,Software Engineer,Technical,Hard,Node.js,What is Express?,A Node.js web framework.
+760,Intel,ECE,Hardware Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+761,Accenture,CSE,Data Engineer,Technical,Medium,Deep Learning,What is CNN?,Convolutional Neural Network.
+762,HCL,CSE,Data Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+763,Google,CSE,ML Engineer,Technical,Easy,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+764,Siemens,ECE,Embedded Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+765,Adobe,CSE,Frontend Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+766,Wipro,CSE,Software Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+767,TCS,CSE,AI Engineer,Technical,Medium,Deep Learning,What is gradient descent?,Optimization algorithm.
+768,Accenture,CSE,Software Engineer,Coding,Medium,DSA,Explain binary search.,Searches a sorted array in O(log n).
+769,Analog Devices,ECE,VLSI Engineer,Technical,Hard,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+770,Cisco,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+771,Samsung,ECE,FPGA Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+772,NVIDIA,CSE,ML Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+773,Texas Instruments,ECE,Electronics Engineer,Technical,Medium,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+774,Bosch,ECE,Embedded Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+775,Siemens,ECE,Embedded Engineer,Technical,Easy,VHDL,What is architecture?,Defines implementation.
+776,Intel,CSE,ML Engineer,Coding,Hard,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+777,NVIDIA,ECE,Electronics Engineer,Technical,Medium,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+778,Infineon,ECE,VLSI Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+779,Oracle,CSE,Frontend Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+780,Adobe,CSE,Data Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+781,Intel,ECE,Electronics Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+782,PhonePe,CSE,Software Engineer,Technical,Easy,Python,What are decorators?,Functions that modify other functions.
+783,STMicroelectronics,ECE,Electronics Engineer,Technical,Medium,Verilog,What is an always block?,Defines procedural logic.
+784,Oracle,CSE,Software Engineer,Technical,Easy,OOP,What is polymorphism?,Ability of an object to take many forms.
+785,Capgemini,CSE,Frontend Engineer,Technical,Hard,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+786,NVIDIA,ECE,VLSI Engineer,Technical,Medium,Embedded C,What is UART?,Serial communication protocol.
+787,Adobe,CSE,Backend Engineer,Technical,Easy,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+788,Cisco,CSE,Software Engineer,Technical,Medium,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+789,Infineon,ECE,Hardware Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+790,PhonePe,CSE,Software Engineer,Technical,Easy,System Design,What is load balancing?,Distributes traffic across servers.
+791,Accenture,CSE,ML Engineer,Technical,Medium,Java,What is JVM?,Java Virtual Machine.
+792,Capgemini,CSE,ML Engineer,Technical,Hard,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+793,Adobe,CSE,Backend Engineer,Technical,Easy,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+794,Paytm,CSE,AI Engineer,Technical,Easy,SQL,What is JOIN?,Combines rows from multiple tables.
+795,NVIDIA,CSE,Backend Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+796,Samsung,ECE,Electronics Engineer,Technical,Medium,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+797,STMicroelectronics,ECE,Electronics Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+798,Microsoft,CSE,ML Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+799,TCS,CSE,ML Engineer,Technical,Hard,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+800,Samsung,ECE,Embedded Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+801,NVIDIA,ECE,Embedded Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+802,Qualcomm,ECE,Embedded Engineer,Technical,Medium,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+803,Analog Devices,ECE,VLSI Engineer,Technical,Medium,Embedded C,volatile keyword?,Prevents compiler optimization.
+804,STMicroelectronics,ECE,Hardware Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+805,Oracle,CSE,Software Engineer,Technical,Medium,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+806,Siemens,ECE,VLSI Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+807,Paytm,CSE,Frontend Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+808,Intel,CSE,Data Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+809,Apple,CSE,Backend Engineer,Technical,Hard,React,What are React hooks?,Functions for state and lifecycle in functional components.
+810,Capgemini,CSE,AI Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+811,NVIDIA,CSE,Software Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+812,Wipro,CSE,ML Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+813,IBM,CSE,Data Engineer,Technical,Hard,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+814,STMicroelectronics,ECE,Hardware Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+815,IBM,CSE,Data Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+816,Siemens,ECE,VLSI Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+817,Apple,CSE,Software Engineer,Technical,Easy,System Design,What is caching?,Stores frequently accessed data.
+818,PhonePe,CSE,ML Engineer,Technical,Hard,Java,Explain method overloading.,Same method name with different parameters.
+819,Cisco,ECE,FPGA Engineer,Technical,Hard,VLSI,What is CMOS?,Complementary MOS technology.
+820,Qualcomm,ECE,VLSI Engineer,Technical,Medium,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+821,Infosys,CSE,Frontend Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+822,STMicroelectronics,ECE,Electronics Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+823,Accenture,CSE,Software Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+824,STMicroelectronics,ECE,Electronics Engineer,Technical,Hard,Verilog,What is an always block?,Defines procedural logic.
+825,Apple,CSE,Data Engineer,Technical,Easy,SQL,What is JOIN?,Combines rows from multiple tables.
+826,NVIDIA,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+827,Flipkart,CSE,Backend Engineer,Coding,Hard,DSA,Explain binary search.,Searches a sorted array in O(log n).
+828,TCS,CSE,AI Engineer,Technical,Medium,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+829,Adobe,CSE,Software Engineer,Technical,Hard,React,What are React hooks?,Functions for state and lifecycle in functional components.
+830,Flipkart,CSE,Frontend Engineer,Technical,Hard,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+831,Texas Instruments,ECE,FPGA Engineer,Technical,Hard,Analog Electronics,What is feedback?,Feeds output back to input.
+832,Apple,CSE,AI Engineer,Technical,Hard,React,What is JSX?,JavaScript XML syntax.
+833,Samsung,ECE,Hardware Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+834,NXP,ECE,Electronics Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+835,STMicroelectronics,ECE,FPGA Engineer,Technical,Easy,VHDL,What is architecture?,Defines implementation.
+836,Siemens,ECE,Embedded Engineer,Technical,Medium,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+837,Analog Devices,ECE,FPGA Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+838,Bosch,ECE,Hardware Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+839,IBM,CSE,Frontend Engineer,Technical,Hard,DBMS,What is normalization?,Reduces redundancy in databases.
+840,Microsoft,CSE,ML Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+841,Capgemini,CSE,AI Engineer,Technical,Medium,Node.js,What is Express?,A Node.js web framework.
+842,Capgemini,CSE,Backend Engineer,Technical,Easy,DBMS,What is a primary key?,A unique identifier for a row.
+843,Flipkart,CSE,Frontend Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+844,IBM,CSE,Software Engineer,Technical,Medium,System Design,What is load balancing?,Distributes traffic across servers.
+845,NVIDIA,ECE,FPGA Engineer,Technical,Easy,FPGA,Why use FPGA?,Rapid prototyping and parallelism.
+846,NVIDIA,ECE,VLSI Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+847,Bosch,ECE,FPGA Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+848,Amazon,CSE,Software Engineer,Technical,Hard,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+849,HCL,CSE,Backend Engineer,Technical,Medium,Computer Networks,What is DNS?,Translates domain names to IP addresses.
+850,Siemens,ECE,Electronics Engineer,Technical,Hard,Signals,Energy vs power signal?,Classification by energy/power.
+851,Infineon,ECE,VLSI Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+852,Oracle,CSE,Data Engineer,Technical,Easy,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+853,Qualcomm,ECE,VLSI Engineer,Technical,Medium,Communication Systems,AM vs FM?,Amplitude vs frequency modulation.
+854,Google,CSE,Backend Engineer,Technical,Medium,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+855,Cognizant,CSE,Software Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+856,NVIDIA,CSE,Backend Engineer,Technical,Easy,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+857,Cisco,ECE,Electronics Engineer,Technical,Medium,VLSI,What is CMOS?,Complementary MOS technology.
+858,Apple,CSE,ML Engineer,Technical,Medium,DBMS,What is a primary key?,A unique identifier for a row.
+859,Flipkart,CSE,Software Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+860,Cisco,ECE,VLSI Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+861,Amazon,CSE,Software Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+862,Samsung,ECE,Hardware Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+863,Intel,ECE,VLSI Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+864,Cisco,ECE,Hardware Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+865,Intel,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+866,Oracle,CSE,Frontend Engineer,Technical,Easy,Node.js,What is Express?,A Node.js web framework.
+867,Analog Devices,ECE,Embedded Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+868,NXP,ECE,VLSI Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+869,Bosch,ECE,VLSI Engineer,Technical,Medium,Communication Systems,What is modulation?,Encode information onto carrier.
+870,Samsung,ECE,Electronics Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+871,NVIDIA,ECE,VLSI Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+872,Google,CSE,ML Engineer,Technical,Easy,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+873,Microsoft,CSE,ML Engineer,Technical,Medium,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+874,Apple,CSE,Backend Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+875,Analog Devices,ECE,Electronics Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+876,Samsung,ECE,Hardware Engineer,Technical,Medium,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+877,TCS,CSE,Software Engineer,Technical,Easy,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+878,Qualcomm,ECE,VLSI Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+879,Flipkart,CSE,Software Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+880,Google,CSE,Data Engineer,Technical,Hard,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+881,Intel,ECE,Hardware Engineer,Technical,Easy,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+882,Cisco,ECE,FPGA Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+883,Infosys,CSE,AI Engineer,Technical,Medium,DBMS,What is normalization?,Reduces redundancy in databases.
+884,Capgemini,CSE,Backend Engineer,Technical,Hard,Node.js,What is npm?,Node package manager.
+885,Cisco,CSE,Frontend Engineer,Technical,Medium,DBMS,What is normalization?,Reduces redundancy in databases.
+886,Qualcomm,ECE,Electronics Engineer,Technical,Hard,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+887,Google,CSE,ML Engineer,HR,Medium,HR,Tell me about yourself.,"Summarize education, skills and goals."
+888,Intel,ECE,VLSI Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+889,Analog Devices,ECE,Hardware Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+890,NVIDIA,ECE,Embedded Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+891,TCS,CSE,Data Engineer,HR,Medium,HR,Why should we hire you?,Highlight relevant strengths.
+892,Samsung,ECE,Hardware Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+893,Samsung,ECE,Hardware Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+894,Qualcomm,ECE,VLSI Engineer,HR,Hard,HR,Why should we hire you?,Highlight relevant strengths.
+895,Intel,ECE,Electronics Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+896,Cisco,ECE,Embedded Engineer,Technical,Easy,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+897,Flipkart,CSE,ML Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+898,IBM,CSE,Software Engineer,Technical,Medium,Java,What is JVM?,Java Virtual Machine.
+899,Bosch,ECE,Hardware Engineer,Technical,Easy,VHDL,What is an entity?,Defines module interface.
+900,Adobe,CSE,Frontend Engineer,Technical,Medium,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+901,Flipkart,CSE,Software Engineer,Technical,Medium,JavaScript,What is closure?,Function with preserved lexical scope.
+902,Analog Devices,ECE,FPGA Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+903,Capgemini,CSE,Frontend Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+904,Paytm,CSE,Software Engineer,Technical,Hard,Operating Systems,What is deadlock?,Processes wait indefinitely for resources.
+905,HCL,CSE,Frontend Engineer,Technical,Easy,Node.js,What is Express?,A Node.js web framework.
+906,NXP,ECE,Hardware Engineer,Aptitude,Easy,Aptitude,What is 25% of 200?,50
+907,NXP,ECE,Hardware Engineer,Technical,Hard,DSP,What is sampling theorem?,Sample at least twice highest frequency.
+908,Google,CSE,Backend Engineer,Technical,Hard,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+909,Apple,CSE,Frontend Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+910,Cognizant,CSE,Data Engineer,Technical,Hard,Python,Difference between list and tuple?,Lists are mutable; tuples are immutable.
+911,Cognizant,CSE,AI Engineer,Technical,Easy,React,What is JSX?,JavaScript XML syntax.
+912,Flipkart,CSE,AI Engineer,Technical,Hard,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+913,Microsoft,CSE,AI Engineer,Technical,Easy,System Design,What is load balancing?,Distributes traffic across servers.
+914,HCL,CSE,Data Engineer,Technical,Easy,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+915,Cognizant,CSE,AI Engineer,Technical,Easy,DBMS,What is a primary key?,A unique identifier for a row.
+916,HCL,CSE,AI Engineer,HR,Hard,HR,Tell me about yourself.,"Summarize education, skills and goals."
+917,Wipro,CSE,Frontend Engineer,Coding,Hard,DSA,Explain binary search.,Searches a sorted array in O(log n).
+918,Analog Devices,ECE,Electronics Engineer,Technical,Hard,Communication Systems,What is modulation?,Encode information onto carrier.
+919,Intel,CSE,Software Engineer,Technical,Easy,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+920,Wipro,CSE,Frontend Engineer,Technical,Medium,OOP,What is polymorphism?,Ability of an object to take many forms.
+921,Intel,ECE,Hardware Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+922,Samsung,ECE,Hardware Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+923,Samsung,ECE,Hardware Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+924,Samsung,ECE,VLSI Engineer,Technical,Easy,Digital Electronics,What is a flip-flop?,A bistable storage element.
+925,Samsung,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+926,STMicroelectronics,ECE,VLSI Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+927,Cognizant,CSE,Backend Engineer,Technical,Hard,Machine Learning,What is overfitting?,Model memorizes training data.
+928,Samsung,ECE,Embedded Engineer,Technical,Easy,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+929,Cisco,CSE,ML Engineer,Technical,Hard,React,What are React hooks?,Functions for state and lifecycle in functional components.
+930,HCL,CSE,ML Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+931,TCS,CSE,AI Engineer,Technical,Easy,React,What are React hooks?,Functions for state and lifecycle in functional components.
+932,Intel,ECE,VLSI Engineer,Technical,Hard,FPGA,What is FPGA?,Programmable logic device.
+933,Adobe,CSE,Data Engineer,Technical,Easy,SQL,What is JOIN?,Combines rows from multiple tables.
+934,Cisco,ECE,Hardware Engineer,HR,Easy,HR,Why should we hire you?,Highlight relevant strengths.
+935,Intel,CSE,Backend Engineer,Technical,Easy,OOP,Explain abstraction.,Hide implementation details and expose essentials.
+936,Analog Devices,ECE,Electronics Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+937,STMicroelectronics,ECE,Hardware Engineer,Technical,Medium,VLSI,Setup vs hold time?,Timing constraints.
+938,Intel,ECE,FPGA Engineer,Technical,Easy,VLSI,Setup vs hold time?,Timing constraints.
+939,Qualcomm,ECE,VLSI Engineer,Technical,Hard,Embedded C,volatile keyword?,Prevents compiler optimization.
+940,Texas Instruments,ECE,Electronics Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+941,Flipkart,CSE,AI Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+942,Siemens,ECE,Hardware Engineer,Technical,Hard,Analog Electronics,What is an op-amp?,High-gain differential amplifier.
+943,Amazon,CSE,Data Engineer,Technical,Easy,Deep Learning,What is CNN?,Convolutional Neural Network.
+944,Google,CSE,Backend Engineer,Technical,Hard,Java,Explain method overloading.,Same method name with different parameters.
+945,Texas Instruments,ECE,FPGA Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+946,Analog Devices,ECE,VLSI Engineer,Technical,Easy,Signals,Energy vs power signal?,Classification by energy/power.
+947,Capgemini,CSE,Backend Engineer,Coding,Medium,DSA,What is a stack?,A LIFO data structure.
+948,Intel,CSE,Frontend Engineer,Technical,Easy,Machine Learning,Bias vs variance?,Tradeoff between underfitting and overfitting.
+949,Flipkart,CSE,Frontend Engineer,Coding,Medium,DSA,What is a stack?,A LIFO data structure.
+950,Oracle,CSE,Frontend Engineer,Technical,Easy,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+951,Siemens,ECE,FPGA Engineer,Technical,Hard,Microcontrollers,Difference between MCU and MPU?,MCU integrates CPU and peripherals.
+952,PhonePe,CSE,Software Engineer,Technical,Easy,SQL,Difference between DELETE and TRUNCATE?,DELETE removes rows; TRUNCATE clears table efficiently.
+953,Qualcomm,ECE,Hardware Engineer,Technical,Easy,FPGA,What is FPGA?,Programmable logic device.
+954,Oracle,CSE,Data Engineer,Technical,Hard,System Design,What is load balancing?,Distributes traffic across servers.
+955,STMicroelectronics,ECE,FPGA Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+956,Intel,ECE,Embedded Engineer,Technical,Hard,VLSI,What is CMOS?,Complementary MOS technology.
+957,NVIDIA,ECE,FPGA Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+958,Infosys,CSE,ML Engineer,Technical,Hard,JavaScript,What is closure?,Function with preserved lexical scope.
+959,Texas Instruments,ECE,Hardware Engineer,Technical,Easy,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+960,Infosys,CSE,Backend Engineer,Technical,Medium,Java,Explain method overloading.,Same method name with different parameters.
+961,Accenture,CSE,Backend Engineer,Technical,Hard,Node.js,What is Express?,A Node.js web framework.
+962,Cisco,ECE,Embedded Engineer,Technical,Medium,Digital Electronics,Difference between latch and flip-flop?,Latch is level-triggered; flip-flop is edge-triggered.
+963,Qualcomm,ECE,Electronics Engineer,Technical,Medium,Analog Electronics,What is feedback?,Feeds output back to input.
+964,STMicroelectronics,ECE,Electronics Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+965,Intel,CSE,Frontend Engineer,Technical,Easy,Operating Systems,Difference between process and thread?,Processes have separate memory; threads share memory.
+966,NXP,ECE,Embedded Engineer,Technical,Hard,Embedded C,What is UART?,Serial communication protocol.
+967,STMicroelectronics,ECE,Electronics Engineer,Technical,Easy,Signals,What is Fourier Transform?,Converts time to frequency domain.
+968,NXP,ECE,Electronics Engineer,Technical,Hard,Communication Systems,What is modulation?,Encode information onto carrier.
+969,PhonePe,CSE,Frontend Engineer,Technical,Hard,Deep Learning,What is gradient descent?,Optimization algorithm.
+970,Wipro,CSE,Data Engineer,Coding,Easy,DSA,Explain binary search.,Searches a sorted array in O(log n).
+971,Cognizant,CSE,Frontend Engineer,Aptitude,Medium,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+972,NVIDIA,ECE,Embedded Engineer,Technical,Easy,Microcontrollers,What is an interrupt?,Interrupts normal execution to handle an event.
+973,HCL,CSE,Frontend Engineer,Aptitude,Hard,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h
+974,Qualcomm,ECE,Electronics Engineer,Technical,Easy,Embedded C,What is UART?,Serial communication protocol.
+975,Intel,CSE,Frontend Engineer,Technical,Easy,Node.js,What is npm?,Node package manager.
+976,Analog Devices,ECE,Electronics Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+977,STMicroelectronics,ECE,Hardware Engineer,Technical,Hard,Signals,Energy vs power signal?,Classification by energy/power.
+978,NVIDIA,ECE,FPGA Engineer,Technical,Hard,VLSI,What is CMOS?,Complementary MOS technology.
+979,Infineon,ECE,VLSI Engineer,Technical,Medium,VHDL,What is architecture?,Defines implementation.
+980,Texas Instruments,ECE,Hardware Engineer,Technical,Hard,Signals,What is Fourier Transform?,Converts time to frequency domain.
+981,NVIDIA,CSE,Data Engineer,Technical,Medium,Computer Networks,Explain TCP handshake.,"SYN, SYN-ACK, ACK."
+982,Google,CSE,Backend Engineer,Aptitude,Hard,Aptitude,What is 25% of 200?,50
+983,Capgemini,CSE,Data Engineer,Technical,Medium,System Design,What is caching?,Stores frequently accessed data.
+984,Texas Instruments,ECE,Electronics Engineer,Aptitude,Medium,Aptitude,What is 25% of 200?,50
+985,IBM,CSE,Frontend Engineer,HR,Easy,HR,Tell me about yourself.,"Summarize education, skills and goals."
+986,Samsung,ECE,VLSI Engineer,Technical,Easy,Communication Systems,What is modulation?,Encode information onto carrier.
+987,Adobe,CSE,AI Engineer,Coding,Hard,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+988,Cisco,ECE,VLSI Engineer,Technical,Medium,VHDL,What is an entity?,Defines module interface.
+989,Paytm,CSE,Data Engineer,Technical,Easy,Machine Learning,What is overfitting?,Model memorizes training data.
+990,Microsoft,CSE,ML Engineer,Coding,Easy,DSA,Reverse a linked list.,Iteratively or recursively reverse pointers.
+991,Analog Devices,ECE,Electronics Engineer,Technical,Medium,VHDL,What is architecture?,Defines implementation.
+992,TCS,CSE,Software Engineer,Technical,Easy,Java,What is JVM?,Java Virtual Machine.
+993,NXP,ECE,FPGA Engineer,Technical,Hard,Digital Electronics,What is a flip-flop?,A bistable storage element.
+994,Accenture,CSE,AI Engineer,Technical,Hard,JavaScript,Difference between let and var?,let is block scoped; var is function scoped.
+995,Bosch,ECE,VLSI Engineer,Technical,Hard,DSP,What is aliasing?,High frequencies appear lower due to undersampling.
+996,Intel,ECE,Hardware Engineer,Technical,Hard,Verilog,Blocking vs non-blocking assignment?,= is blocking; <= is non-blocking.
+997,IBM,CSE,ML Engineer,Technical,Easy,Node.js,What is Express?,A Node.js web framework.
+998,Intel,ECE,Hardware Engineer,Technical,Easy,Embedded C,volatile keyword?,Prevents compiler optimization.
+999,Intel,CSE,Frontend Engineer,Technical,Hard,React,What are React hooks?,Functions for state and lifecycle in functional components.
+1000,Accenture,CSE,ML Engineer,Aptitude,Easy,Aptitude,A train travels 120 km in 2 hours. Speed?,60 km/h

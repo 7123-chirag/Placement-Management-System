@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlacementGuide</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav class="navbar navbar-expand-lg fixed-top">
+
+        <div class="container">
+
+            <!-- Logo -->
+
+            <a class="navbar-brand d-flex align-items-center"
+               href="{{ url_for('home') }}">
+
+                <div class="me-3">
+                    <i class="fa-solid fa-graduation-cap fa-2x"></i>
+                </div>
+
+                <div>
+                    <h4 class="m-0">PlacementGuide</h4>
+                    <small>Guiding Students Towards Their Dream Career</small>
+                </div>
+
+            </a>
+
+            <!-- Mobile Button -->
+
+            <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarNav">
+
+                <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+            <!-- Menu -->
+
+            <div class="collapse navbar-collapse"
+                id="navbarNav">
+
+                <ul class="navbar-nav ms-auto align-items-center">
+
+                    <li class="nav-item">
+                        <a class="nav-link active"
+                           href="{{ url_for('home') }}">
+                            Home
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           href="#features">
+                            Features
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           href="{{ url_for('recommender') }}">
+                            Companies
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           href="{{ url_for('about') }}">
+                            About
+                        </a>
+                    </li>
+
+                    <li class="nav-item ms-3">
+                        <a href="{{ url_for('login') }}"
+                           class="btn btn-outline-primary rounded-pill px-4">
+                            Login
+                        </a>
+                    </li>
+
+                    <li class="nav-item ms-2">
+                        <a href="{{ url_for('register') }}"
+                           class="btn btn-primary rounded-pill px-4">
+                            Register
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+    <!-- ================= HERO ================= -->
+
+    <section class="hero">
+
+        <div class="container">
+
+            <div class="row align-items-center">
+
+                <div class="col-lg-6">
+
+                    <span class="badge bg-primary mb-4 p-3 rounded-pill">
+                        AI Powered Career Platform
+                    </span>
+
+                    <h1 class="display-3 fw-bold">
+                        Your AI Career Companion
+                        <br>
+                        for Campus Placements
+                    </h1>
+
+                    <p class="lead mt-4">
+                        Analyze your resume,
+                        calculate ATS score,
+                        discover companies that match your profile,
+                        predict placement chances,
+                        and prepare for interviews —
+                        all from one intelligent platform.
+                    </p>
+
+                    <div class="mt-5">
+
+                        <a href="{{ url_for('upload') }}"
+                           class="btn btn-primary btn-lg rounded-pill px-5">
+                            Upload Resume
+                        </a>
+
+                        <a href="{{ url_for('recommender') }}"
+                           class="btn btn-outline-dark btn-lg rounded-pill px-5 ms-2">
+                            Explore Companies
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6 text-center">
+
+                    <img src="{{ url_for('static', filename='images/hero.svg') }}"
+                        class="img-fluid"
+                        alt="Hero Illustration">
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ================= PLACEHOLDER ================= -->
+
+    <section class="py-5 text-center">
+
+        <div class="container">
+
+            <h2>Coming Next</h2>
+
+            <p class="text-muted">
+                Statistics • Features • How It Works • Recruiters • Testimonials • Footer
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Bootstrap JS -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JS -->
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+
+</html>

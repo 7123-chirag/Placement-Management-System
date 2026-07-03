@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Uploaded resumes
+uploads/
+
+# Database connection (contains server details)
+database/db_connection.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pyc
+
+# Local database/cache files
+*.db

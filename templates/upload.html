@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Upload Resume | PlacementGuide</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body class="bg-light">
+
+<div class="container py-5">
+
+    <div class="text-center mb-5">
+
+        <h1 class="fw-bold">
+
+            <i class="fa-solid fa-file-arrow-up text-primary"></i>
+
+            Upload Your Resume
+
+        </h1>
+
+        <p class="text-muted">
+
+            Upload your latest resume and select your branch.
+
+        </p>
+
+    </div>
+
+    <div class="row justify-content-center">
+
+        <div class="col-lg-7">
+
+            <div class="card shadow-lg border-0 rounded-4">
+
+                <div class="card-body p-5">
+
+                    <form action="{{ url_for('upload') }}"
+                          method="POST"
+                          enctype="multipart/form-data">
+
+                        <!-- ================= Branch ================= -->
+
+                        <div class="mb-4">
+
+                            <label class="form-label fw-bold">
+
+                                Select Your Branch
+
+                            </label>
+
+                            <select
+                                class="form-select"
+                                name="branch"
+                                required>
+
+                                <option value="">Choose Branch</option>
+
+                                <option value="CSE">Computer Science (CSE)</option>
+
+                                <option value="COE">Computer Engineering (COE)</option>
+
+                                <option value="ENC">Electronics & Computer (ENC)</option>
+
+                                <option value="ECE">Electronics & Communication (ECE)</option>
+
+                                <option value="EIC">Electronics & Instrumentation (EIC)</option>
+
+                                <option value="Electrical">Electrical Engineering</option>
+
+                                <option value="Mechanical">Mechanical Engineering</option>
+
+                                <option value="Civil">Civil Engineering</option>
+
+                                <option value="Chemical">Chemical Engineering</option>
+
+                                <option value="Biotechnology">Biotechnology</option>
+
+                            </select>
+
+                        </div>
+
+                        <!-- ================= Resume Upload ================= -->
+
+                        <div class="upload-box text-center p-5 border rounded-4">
+
+                            <i class="fa-solid fa-cloud-arrow-up fa-4x text-primary mb-4"></i>
+
+                            <h4>Upload Your Resume</h4>
+
+                            <p class="text-muted">
+
+                                PDF, DOC or DOCX
+
+                            </p>
+
+                            <input
+                                type="file"
+                                class="form-control"
+                                name="resume"
+                                accept=".pdf,.doc,.docx"
+                                required>
+
+                            <small class="text-muted">
+
+                                Supported Formats: PDF, DOC, DOCX
+
+                            </small>
+
+                        </div>
+
+                        <!-- ================= Button ================= -->
+
+                        <div class="d-grid mt-4">
+
+                            <button
+                                type="submit"
+                                class="btn btn-primary btn-lg rounded-pill">
+
+                                <i class="fa-solid fa-upload"></i>
+
+                                Upload Resume
+
+                            </button>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>
