@@ -108,18 +108,7 @@ Import it into Microsoft SQL Server before running the project.
 
 ---
 
-## 📸 Screenshots
 
-You can add screenshots here.
-
-- Home Page
-- Dashboard
-- Resume Analysis
-- Placement Predictor
-- Company Recommendation
-- Interview Preparation
-
----
 
 ## 📌 Future Improvements
 
